@@ -1,6 +1,9 @@
 ### Lucas Raoni Profile
 
-Currently learning go 👍
+love to code in go 
+
+Currently working in a project "innovationLab"
+for my uni, to expose im the NEXT
 
 <!--
 **mahauni/mahauni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
