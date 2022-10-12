@@ -1,6 +1,6 @@
 # Lucas Raoni
 
-## Welcome !!
+## Welcome !! 👋👋
 
 Hello those who are coming here to take a look in my profile, I'm 18 years old, studing Information systems in FIAP.
 
@@ -33,13 +33,18 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 
 ## What I'm doing at the moment
 
-At the moment I'm doing unniversity project to the NEXT, which is the unniversity exposion with all the years projects.
+<div display="inline-block">
+ <p align="left">🏢 1st year in my unni at <a href="https://www.fiap.com.br/">FIAP</a>.</p>
+ <p align="left">💾 At the moment I'm doing unniversity project to the NEXT, which is the unniversity exposion with all the years projects.</p>
+ <p align="left">🎮 Love playing hard games like souls games.</p>
+ <p align="left"> :jp: Like most anyting related to japan, love reading novels and mangas, and principaly watching anime</p>
+</div>
 
 
 <br>
 <a href="https://www.instagram.com/lucas.mahauni" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/mahauni2004" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/lucasmahauni2004" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/lucas-antunes-036a78212" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 <br>
 
