@@ -37,6 +37,11 @@ At the moment I'm doing unniversity project to the NEXT, which is the unniversit
 
 
 <br>
+<a href="https://www.instagram.com/lucas.mahauni" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/mahauni2004" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/lucasmahauni2004" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+<br>
 
 ##
 <br>
