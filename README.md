@@ -37,7 +37,7 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
  <p align="left">🏢 1st year in my unni at <a href="https://www.fiap.com.br/">FIAP</a>.</p>
  <p align="left">💾 At the moment I'm doing unniversity project to the NEXT, which is the unniversity exposion with all the years projects.</p>
  <p align="left">🎮 Love playing hard games like souls games.</p>
- <p align="left"> :jp: Like most anyting related to japan, love reading novels and mangas, and principaly watching anime</p>
+ <p align="left"> 🗾🏯 Like most anyting related to japan, love reading novels and mangas, and principaly watching anime 🗼🗻</p>
 </div>
 
 
