@@ -44,7 +44,7 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 <br>
 <a href="https://www.instagram.com/lucas.mahauni" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/mahauni2004" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/lucas-antunes-036a78212" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/lucasmahuni2004/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 <br>
 
