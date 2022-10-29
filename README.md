@@ -57,3 +57,7 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 </div>
 
 ##
+
+ <br>
+  
+ <a href="https://www.codewars.com/users/mahauni" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://www.codewars.com/users/mahauni/badges/small" />
