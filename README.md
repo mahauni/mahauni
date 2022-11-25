@@ -28,9 +28,11 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 
 ### Currently learning:
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/></code>
+<!-- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/></code> -->
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="k8"/></code>
+<!-- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code> -->
 
 <br>
 
@@ -38,7 +40,7 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 
 <div display="inline-block">
  <p align="left">🏢 1st year in my unni at <a href="https://www.fiap.com.br/">FIAP</a>.</p>
- <p align="left">💾 At the moment I'm doing unniversity project to the NEXT, which is the unniversity exposion with all the years projects.</p>
+ <p align="left">💾 At the moment I'm studing Rust, Docker and k8.</p>
  <p align="left">🎮 Love playing hard games like souls games.</p>
  <p align="left"> 🗾🏯 Like most anyting related to japan, love reading novels and mangas, and principaly watching anime 🗼🗻</p>
 </div>
