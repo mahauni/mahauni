@@ -39,7 +39,7 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 ## What I'm doing at the moment
 
 <div display="inline-block">
- <p align="left">🏢 1st year in my unni at <a href="https://www.fiap.com.br/">FIAP</a>.</p>
+ <p align="left">🏢 2nd year in my unni at <a href="https://www.fiap.com.br/">FIAP</a>.</p>
  <p align="left">💾 At the moment I'm studing Rust, Docker and k8.</p>
  <p align="left">🎮 Love playing hard games like souls games.</p>
  <p align="left"> 🗾🏯 Like most anyting related to japan, love reading novels and mangas, and principaly watching anime 🗼🗻</p>
