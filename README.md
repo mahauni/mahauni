@@ -56,8 +56,8 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 <br>
 <div>
 <a href="https://github.com/mahauni">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahauni&layout=compact&hide=html,css&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahauni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-ten-sigma-31.vercel.app/api/top-langs/?username=mahauni&layout=compact&hide=html,css&langs_count=7&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats-ten-sigma-31.vercel.app/api?username=mahauni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
