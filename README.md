@@ -47,7 +47,7 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
   
 ## To Do:
 <div display="inline-block">
- <p align="left">Do a portifolio in the github hostable site.</p>
+ <p align="left">💭 Do a portifolio in the github hostable site.</p>
 </div>
 
 <br>
