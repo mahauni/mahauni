@@ -43,7 +43,12 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
  <p align="left">🎮 Love playing hard games like souls games.</p>
  <p align="left"> 🗾🏯 Like most anyting related to japan, love reading novels and mangas, and principaly watching anime 🗼🗻</p>
 </div>
-
+</br>
+  
+## To Do:
+<div display="inline-block">
+ <p align="left">Do a portifolio in the github hostable site.</p>
+</div>
 
 <br>
 <a href="https://www.instagram.com/lucas.mahauni" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
