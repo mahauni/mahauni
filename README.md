@@ -56,13 +56,14 @@ Hello those who are coming here to take a look in my profile, I'm 18 years old, 
 <a href="https://www.linkedin.com/in/lucasmahuni2004/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 <br>
-
+<!--
 ##
 <br>
 <div>
-<a href="https://github.com/mahauni">
-<img height="180em" src="https://github-readme-stats-mahauni.vercel.app/api/top-langs/?username=mahauni&layout=compact&hide=html,css&langs_count=7&theme=midnight-purple"/>
+#<a href="https://github.com/mahauni">
+#<img height="180em" src="https://github-readme-stats-mahauni.vercel.app/api/top-langs/?username=mahauni&layout=compact&hide=html,css&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats-mahauni.vercel.app/api?username=mahauni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
+-->
