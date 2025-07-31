@@ -2,7 +2,7 @@
 
 ## Welcome !! 👋👋
 
-Hello those who are coming here to take a look in my profile, I'm 19 years old, studing Information systems in FIAP.
+Hello those who are coming here to take a look in my profile, I'm 21 years old, studing Information systems in FIAP.
 
 <br>
 <a href="https://www.codewars.com/users/mahauni" target="_blank"><img align="left" alt="Codewars" src="https://www.codewars.com/users/mahauni/badges/large" />
@@ -16,11 +16,11 @@ Hello those who are coming here to take a look in my profile, I'm 19 years old, 
 ### Tools, languages:
   
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" title="Golang"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title = "AWS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title = "AWS"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="k8"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust"/></code>  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/></code>  
 <br>
 <br>
 
