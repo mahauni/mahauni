@@ -30,7 +30,7 @@
  Linkedin:      <a rel=me href="https://www.linkedin.com/in/lucasmahuni2004/">linkedin.com</a>
  Portifolio:    <a href="https://mahauni.github.io/">mahauni.github.io</a>
 
- ~> <strong>finger mahauni</strong>
+ ~ > <strong>finger mahauni</strong>
  Login: mahauni                          Name: Lucas Raoni
  Directory: /home/mahauni                Shell: /usr/bin/zsh
  Project:
