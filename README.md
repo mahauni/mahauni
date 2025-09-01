@@ -1,7 +1,7 @@
 # Welcome !! 👋👋
 
 <pre>
-~ > <strong>fastfetch</strong>
+ ~ > <strong>fastfetch</strong>
 
         _,met$$$$$gg.          mahauni@debian
      ,g$$$$$$$$$$$$$$$P.       --------------
@@ -22,41 +22,17 @@
              `""""             
                                
 
-  ~ > 
+ ~ > 
 </pre>
-
-
-
 
 <pre>
- ~> <strong>ls links</strong>
- Fediverse:      <a rel=me href="https://tilde.zone/@hedy">@hedy@tilde.zone</a> (Mastodon)
- Blog:           <a href="https://home.hedy.dev/">home.hedy.dev</a>
- Gemini capsule: <a href="gemini://gmi.hedy.dev/">gemini://gmi.hedy.dev</a>
+ ~ > <strong>ls links</strong>
+ Linkedin:      <a rel=me href="https://www.linkedin.com/in/lucasmahuni2004/">linkedin.com</a>
+ Portifolio:    <a href="https://mahauni.github.io/">mahauni.github.io</a>
 
- ~> <strong>finger hedy</strong>
- Login: hedy                             Name: hedy
- Directory: /home/hedy                   Shell: /usr/bin/fish
+ ~> <strong>finger mahauni</strong>
+ Login: mahauni                          Name: Lucas Raoni
+ Directory: /home/mahauni                Shell: /usr/bin/zsh
  Project:
-   - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
-   - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language
+   - <a href="https://github.com/mahauni/limit-test">limit-test</a>
 </pre>
-
-
-<br>
-<a href="https://www.instagram.com/lucas.mahauni" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/mahauni2004" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/lucasmahuni2004/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-<br>
-<!--
-##
-<br>
-<div>
-#<a href="https://github.com/mahauni">
-#<img height="180em" src="https://github-readme-stats-mahauni.vercel.app/api/top-langs/?username=mahauni&layout=compact&hide=html,css&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats-mahauni.vercel.app/api?username=mahauni&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
-
-##
--->
