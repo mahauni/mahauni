@@ -26,7 +26,7 @@
 </pre>
 
 <pre>
- ~ > <strong>ls links</strong>
+ ~ > <strong>cat links</strong>
  Linkedin:      <a rel=me href="https://www.linkedin.com/in/lucasmahuni2004/">linkedin.com</a>
  Portifolio:    <a href="https://mahauni.github.io/">mahauni.github.io</a>
 
